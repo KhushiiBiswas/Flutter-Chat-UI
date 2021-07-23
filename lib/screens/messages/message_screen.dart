@@ -15,6 +15,7 @@ class MessagesScreen extends StatelessWidget {
   AppBar buildAppBar() {
     return AppBar(
       automaticallyImplyLeading: false,
+      backgroundColor: PrimaryColor,
       title: Row(
         children: [
           BackButton(),
