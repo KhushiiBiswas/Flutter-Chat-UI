@@ -1,1 +1,1 @@
-<h1>Heading level 1</h1>
+<h1>Flutter Chat UI</h1>
